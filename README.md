@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Havecoffeewithme
 - 👀 I’m interested in Coffee and Art
-- 🌱 I’m currently learning software Development
+- 🌱 I’m software Developer 
 - 💞️ I’m looking to collaborate on Python and Java projects
 - 📫 How to reach me Email : Percyratheko@gmail.com
 - 😄 Pronouns: He/him

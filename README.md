@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 💫 About Me:
+# About Me:
  👋 Hi, I’m @Havecoffeewithme<br> 👀 I’m interested in Coffee and Art<br> 🌱 I’m software Developer <br> 💞️ I’m looking to collaborate on Python and  AI dev projects<br> 📫 How to reach me Email : Letlotloratheko@gmail.com<br> 😄 Pronouns: He/him<br>⚡ Fun fact: I used to know how to draw but its all gone now.
 
 
